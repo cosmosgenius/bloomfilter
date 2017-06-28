@@ -1,0 +1,6 @@
+[package]
+name = "bloomfilter"
+version = "0.1.0"
+authors = ["Sharat M R <cosmosgenius@gmail.com>"]
+
+[dependencies]
